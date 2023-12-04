@@ -15,4 +15,5 @@ class Solution {
         }
         return index;
     }
+    //time complexity is O(n)
 }
